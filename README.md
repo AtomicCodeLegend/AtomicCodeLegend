@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtomicCodeLegend
 - 👀 I’m interested in learning new things and working together with everyone!
-- 🌱 I’m currently learning basic Python and contributing to [usefulib](https://github.com/hamdivazim/usefulib)!
+- 🌱 I’m currently learning basic Python and contributing to open source libraries like [usefulib](https://github.com/hamdivazim/usefulib) and tensorflow!
 
 
 <!---
